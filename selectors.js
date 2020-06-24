@@ -1,3 +1,5 @@
+xxx master
+
 export const getWordsSelector = (store) => store.dictionary.words;
 
 export const getWorldCountSelector = (store) => store.dictionary.worldCount;
