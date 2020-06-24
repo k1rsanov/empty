@@ -1,1 +1,5 @@
-export const getWordsSelector = (store) => store.dictionaryQwe.words;
+master
+
+
+xxxx
+zzzzzzz
