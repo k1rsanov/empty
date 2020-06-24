@@ -8,3 +8,4 @@ export const getLosingFlagSelector = (store) => store.weather.isLoading;
 
 
 export const getLosingFlagSelector = (store) => store.weather.isLoadingXx;
+export const getLosingFlagSelector = (store) => store.weather.isLoadingXx2;
